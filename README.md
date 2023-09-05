@@ -2,7 +2,7 @@
 - 👀 I’m interested to _Kubernetes and Cloud_, but also at WebDev and DevOps
 - 🌱 I’m Graduate in Computer Science at Marconi Hack in **Bari**
 - 💞️ I’m actually working for Desotech <3
-- 📫 How to reach me **gaetanoabbaticchio8@gmail.com** or on telegram @itsgaet
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/itsgaet/) or on [Telegram](https://web.telegram.org/k/#@ItsGaet)
 
 <!---
 ItsGaet/ItsGaet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
