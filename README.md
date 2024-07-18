@@ -1,10 +1,36 @@
-- 👋 Hi, I’m **@ItsGaet**
-- 👀 I’m interested to _Kubernetes and Cloud_, but also at WebDev and DevOps
-- 🌱 I’m Graduate in Computer Science at Marconi Hack in **Bari**
-- 💞️ I’m actually working for Desotech <3
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/itsgaet/) or on [Telegram](https://t.me/ItsGaet)
+# 👋 Hi, I'm Gaetano!
 
-<!---
-ItsGaet/ItsGaet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I'm a Trainer and Consultant at Desotech, with a passion for technology, especially computer science and development. I'm fascinated by Artificial Intelligence and Machine Learning 🤖💡
+
+## 🎓 Education
+
+- Graduated from Marconi Hack Technical Institute in Bari, specializing in Computer Science
+- Continuous learning through courses, certifications, and events
+
+## 🏆 Certifications
+
+- Microsoft Certified Trainer: Proud to be a certified Microsoft Trainer, enhancing my ability to share knowledge (unofficial but probably the youngest in all of EMEA)
+
+## 🎤 Speaking Highlights
+
+- AI Week 2024, Rimini: Shared insights on AI advancements
+- Copilot Event, Verona: Discussed the potential of Copilot
+- RAG Events: Explored Retrieval Augmented Generation technology
+
+## 👨‍💻 Continuous Learning
+
+Regularly follow advanced courses, webinars, and conferences to stay ahead in AI and ML
+
+## 💼 Consulting & Training
+
+Provide consultancy and training services, including workshops and online courses
+
+## 📫 How to Reach Me
+
+![Linkedin](https://www.linkedin.com/in/itsgaet/)
+
+---
+
+Feel free to connect with me to discuss technology, AI, ML, or any related topics!
