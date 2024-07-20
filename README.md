@@ -21,10 +21,6 @@ I'm a Trainer and Consultant at Desotech, with a passion for technology, especia
 - Copilot Event, Verona: Discussed the potential of Copilot
 - RAG Events: Explored Retrieval Augmented Generation technology
 
-## 👨‍💻 Continuous Learning
-
-Regularly follow advanced courses, webinars, and conferences to stay ahead in AI and ML
-
 ## 💼 Consulting & Training
 
 Provide consultancy and training services, including workshops and online courses
