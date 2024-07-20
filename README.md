@@ -12,6 +12,8 @@ I'm a Trainer and Consultant at Desotech, with a passion for technology, especia
 ## 🏆 Certifications
 
 - Microsoft Certified Trainer: Proud to be a certified Microsoft Trainer, enhancing my ability to share knowledge (unofficial but probably the youngest in all of EMEA)
+- Microsoft Certified: Azure AI Engineer Associate
+- Oracle Cloud Infrastructure 2024 Generative AI Professional
 
 ## 🎤 Speaking Highlights
 
