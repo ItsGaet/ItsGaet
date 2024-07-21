@@ -27,7 +27,9 @@ Provide consultancy and training services, including workshops and online course
 
 ## 📫 How to Reach Me
 
-[Linkedin](https://www.linkedin.com/in/itsgaet/)
+[👉 Linkedin](https://www.linkedin.com/in/itsgaet/)
+
+[🔥 Discord](https://discord.gg/2sDVPZaHbS)
 
 ---
 
